@@ -1,2 +1,2 @@
-# demo.writewise.github.io
-Demo installation of WriteWise the competition platform for scientific papers
+# android.prototype.writewise.github.io
+Prottotype of WriteWise the competition platform for scientific papers
