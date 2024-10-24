@@ -1,2 +1,3 @@
-# demo.writewise.github.io
-Demo installation of WriteWise the competition platform for scientific papers
+# WritWise Mobile
+## Prototype M
+This is a prototype built with [Proto.io](https://share.proto.io/7OOBY7/).
